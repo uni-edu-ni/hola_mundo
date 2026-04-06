@@ -1,8 +1,8 @@
 # hola_mundo
 Repositorio de prueba para Introducción a la programación
 
-![ADVERTENCIA]
-Para completar esta tarea deberán crear un nuevo archivo con extensión *.PSC
+ADVERTENCIA
+Para completar esta tarea deberán EDITAR un nuevo archivo con extensión *.PSC
 
 ## Tabla de contenidos
 
@@ -13,8 +13,9 @@ Para completar esta tarea deberán crear un nuevo archivo con extensión *.PSC
 ##Requisitos
 - Tener una cuenta de Github.com
 - Formar parte del grupo de clase ( te unes usando la invitación que te envió el profesor)
-- Creas el archivo HolaMundo.psc y agregas tu pseudocódigo (adórnalo tanto como puedas, esmérate)
+- Completar el Pseudocódigo para Imprimir "Hola Mundo" (sin coma u otro signo de puntuación) en el archivo HolaMundo.psc.
 - Cuando termines da click en "Commit Changes"
+- El profesor te calificará posteriormente.
 
 ##Contribuir
 
