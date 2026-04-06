@@ -6,7 +6,7 @@ Para completar esta tarea deberán crear un nuevo archivo con extensión *.PSC
 
 ## Tabla de contenidos
 
-- Requisitos(#Requisitos)
+- [Requisitos](#requisitos)
 - [Contribuir](#contribuir)
 - [Licencia](#licencia)
 
@@ -21,3 +21,5 @@ Para completar esta tarea deberán crear un nuevo archivo con extensión *.PSC
 Pueden contribuir todos los alumnos de Introducción a la Programación de los grupos: 1S7, 1S8, 1S9 y 1S10, siempre que hayan creado sus cuentas y 
 aceptado la invitación a su respectivo grupo de clase
 
+##Licencia
+Esta tarea no tiene licencia asignada porque aún el código no se convierte en software.
