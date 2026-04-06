@@ -1,7 +1,7 @@
 # hola_mundo
 Repositorio de prueba para Introducción a la programación
 
-[!ADVERTENCIA]
+![ADVERTENCIA]
 Para completar esta tarea deberán crear un nuevo archivo con extensión *.PSC
 
 ## Tabla de contenidos
